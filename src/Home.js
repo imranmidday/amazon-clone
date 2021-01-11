@@ -26,6 +26,13 @@ function Home() {
                     rating = {5}
                     image = "https://images-na.ssl-images-amazon.com/images/I/51z7mZZKRgL._SX317_BO1,204,203,200_.jpg"
                 />
+                <Product
+                    id = "12345"
+                    title = "Zero To One"
+                    price = {499}
+                    rating = {5}
+                    image = "https://images-na.ssl-images-amazon.com/images/I/51z7mZZKRgL._SX317_BO1,204,203,200_.jpg"
+                />
             </div>
             
             {/* Productd*/}
