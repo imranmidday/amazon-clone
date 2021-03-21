@@ -9,5 +9,50 @@
 }
 .home__image{
     width: 100%;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,1));
+    margin-bottom: -301px;
+}
+.home-main-card{
+    background: #fff;
+    height: 100%;
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+    display: inline-block;
+}
+.home-headline{
+    padding: 0 20px;
+    margin-bottom: 10px;
+    max-height: 54.6px;
+}
+.home-card-body{
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding: 0 20px;
+    margin-bottom: 44px;
+    height: 275px;
+}
+.home-section .grid-row-1{
+    overflow: hidden;
+    height: 50%;
+}
+.home-section .container-0{
+    width: 47.5%;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    padding: 0 0 36px;
+    margin: 0;
+}
+.home-section .image-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.home-section .container-1{
+    float: right;    
 }
